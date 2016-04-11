@@ -1,0 +1,58 @@
+<div {$pageattrs}>
+
+{BEGIN container_masterlistheader}
+<div class="rnr-c rnr-ch rnr-c-masterlistheader">
+
+
+<div  class="style1 rnr-bl rnr-b-masterprintheader {$brickclass_masterprintheader}">	<h1>{$pagetitlelabel public_users masterprint}</h1>
+</div>
+
+
+<div class="rnr-hfiller"></div>
+</div>
+{END container_masterlistheader}
+
+
+
+{BEGIN container_mastergrid}
+
+
+
+<table class="rnr-c rnr-cont rnr-c-mastergrid rnr-b-masterprintfields rnr-gridtable" cellpadding="0" >
+	<thead>
+		<tr class="rnr-toprow style1 {$gridHeader_class}" >
+			<th class="{$username_class}">{$label public_users username}</th>
+			<th class="{$password_class}">{$label public_users password}</th>
+			<th class="{$name_class}">{$label public_users name}</th>
+			<th class="{$email_class}">{$label public_users email}</th>
+			<th class="{$gender_class}">{$label public_users gender}</th>
+			<th class="{$address_class}">{$label public_users address}</th>
+			<th class="{$dateofbirth_class}">{$label public_users dateofbirth}</th>
+			<th class="{$phone_class}">{$label public_users phone}</th>
+			<th class="{$admin_class}">{$label public_users admin}</th>
+			<th class="rnr-edge">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="rnr-row style1">
+			<td class="{$username_class}">{$username_mastervalue}</td>
+			<td class="{$password_class}">{$password_mastervalue}</td>
+			<td class="{$name_class}">{$name_mastervalue}</td>
+			<td class="{$email_class}">{$email_mastervalue}</td>
+			<td class="{$gender_class}">{$gender_mastervalue}</td>
+			<td class="{$address_class}">{$address_mastervalue}</td>
+			<td class="{$dateofbirth_class}">{$dateofbirth_mastervalue}</td>
+			<td class="{$phone_class}">{$phone_mastervalue}</td>
+			<td class="{$admin_class}">{$admin_mastervalue}</td>
+			<td class="rnr-edge">&nbsp;</td>
+		</tr>
+	</tbody>
+</table> 
+
+
+
+
+
+{END container_mastergrid}
+
+</div>

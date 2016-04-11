@@ -1,0 +1,1454 @@
+.ExtravaganzaOffice.rnr-s-empty > .rnr-c
+{
+background:none;
+
+}
+.ExtravaganzaOffice.rnr-s-empty > .rnr-c .rnr-leftbricks
+{
+margin-right: 10px;
+}
+.ExtravaganzaOffice.rnr-s-empty > .rnr-c .rnr-rightbricks
+{
+margin-left: 10px;
+}
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style1
+{
+color: #404040;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-empty > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-empty > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style2
+{
+color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style3
+{
+color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-empty > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-menu > .rnr-c
+{
+border: solid #000000 1px;border-top-right-radius: 6px;border-top-left-radius: 6px;border-bottom-right-radius: 6px;border-bottom-left-radius: 6px;
+}
+.ExtravaganzaOffice.rnr-s-menu > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 5px; padding-right: 3px;
+border-bottom-right-radius: 5px; padding-right: 3px;
+
+}
+.ExtravaganzaOffice.rnr-s-menu > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 5px; padding-left: 3px;
+border-bottom-left-radius: 5px; padding-left: 3px;
+
+}
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-menu > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #494949;
+}
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #3E3E3E;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #3E3E3E;color: #DCDCDC;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-menu > .rnr-c .rnr-leftbricks
+{
+margin-right: 6px;
+}
+.ExtravaganzaOffice.rnr-s-menu > .rnr-c .rnr-rightbricks
+{
+margin-left: 6px;
+}
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-menu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 6px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-menu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 6px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-menu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > .rnr-c
+{
+background:none;
+
+}
+.ExtravaganzaOffice.rnr-s-hmenu > .rnr-c .rnr-leftbricks
+{
+margin-right: 10px;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > .rnr-c .rnr-rightbricks
+{
+margin-left: 10px;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style1
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style2
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style3
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-hmenu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > .rnr-c
+{
+border: solid #DCDCDC 2px;border-top-right-radius: 5px;border-top-left-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 3px; padding-right: 2px;
+border-bottom-right-radius: 3px; padding-right: 2px;
+
+}
+.ExtravaganzaOffice.rnr-s-undermenu > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 3px; padding-left: 2px;
+border-bottom-left-radius: 3px; padding-left: 2px;
+
+}
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #494949;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #FFFF00;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FFFF00;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > .rnr-c .rnr-leftbricks
+{
+margin-right: 5px;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > .rnr-c .rnr-rightbricks
+{
+margin-left: 5px;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 7px 4px;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 5px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 5px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-undermenu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-fields > .rnr-c
+{
+border: solid #C4B1A2 2px;border-top-right-radius: 6px;border-top-left-radius: 6px;border-bottom-right-radius: 6px;border-bottom-left-radius: 6px;
+}
+.ExtravaganzaOffice.rnr-s-fields > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 4px; padding-right: 3px;
+border-bottom-right-radius: 4px; padding-right: 3px;
+
+}
+.ExtravaganzaOffice.rnr-s-fields > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 4px; padding-left: 3px;
+border-bottom-left-radius: 4px; padding-left: 3px;
+
+}
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #FFFFFF;
+background: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+;
+color: #000000;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-fields > .rnr-c.rnr-ch
+{
+background-color: #FFFFFF;
+background: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+;
+
+}
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style3
+{
+background-color: #FFFFFF;
+background: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+background: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+;
+color: #696969;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-fields > .rnr-c .rnr-leftbricks
+{
+margin-right: 6px;
+}
+.ExtravaganzaOffice.rnr-s-fields > .rnr-c .rnr-rightbricks
+{
+margin-left: 6px;
+}
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 6px 4px;
+}
+.ExtravaganzaOffice.rnr-s-fields > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 6px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-fields > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 6px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 8px 4px;
+}
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-fields > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 7px 4px;
+}
+.ExtravaganzaOffice.rnr-s-form > .rnr-c
+{
+border-top-right-radius: 10px;border-top-left-radius: 10px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;
+}
+.ExtravaganzaOffice.rnr-s-form > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 10px; padding-right: 5px;
+border-bottom-right-radius: 10px; padding-right: 5px;
+
+}
+.ExtravaganzaOffice.rnr-s-form > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 10px; padding-left: 5px;
+border-bottom-left-radius: 10px; padding-left: 5px;
+
+}
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #00CCCC;color: #000080;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-form > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #00CCCC;
+}
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #FF9900;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #6699CC;color: #003366;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-form > .rnr-c .rnr-leftbricks
+{
+margin-right: 10px;
+}
+.ExtravaganzaOffice.rnr-s-form > .rnr-c .rnr-rightbricks
+{
+margin-left: 10px;
+}
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-form > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-form > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-form > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-1 > .rnr-c
+{
+border: solid #C4B1A2 1px;border-top-right-radius: 5px;border-top-left-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;
+}
+.ExtravaganzaOffice.rnr-s-1 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 4px; padding-right: 2px;
+border-bottom-right-radius: 4px; padding-right: 2px;
+
+}
+.ExtravaganzaOffice.rnr-s-1 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 4px; padding-left: 2px;
+border-bottom-left-radius: 4px; padding-left: 2px;
+
+}
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #494949;color: #DCDCDC;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-1 > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #494949;
+}
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #494949;color: #D1EEEE;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-1 > .rnr-c .rnr-leftbricks
+{
+margin-right: 5px;
+}
+.ExtravaganzaOffice.rnr-s-1 > .rnr-c .rnr-rightbricks
+{
+margin-left: 5px;
+}
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 7px 4px;
+}
+.ExtravaganzaOffice.rnr-s-1 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 5px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-1 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 5px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-1 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-2 > .rnr-c
+{
+border: solid #C4B1A2 2px;border-top-right-radius: 5px;border-top-left-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;
+}
+.ExtravaganzaOffice.rnr-s-2 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 3px; padding-right: 2px;
+border-bottom-right-radius: 3px; padding-right: 2px;
+
+}
+.ExtravaganzaOffice.rnr-s-2 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 3px; padding-left: 2px;
+border-bottom-left-radius: 3px; padding-left: 2px;
+
+}
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #F2F2F2;color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-2 > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #F2F2F2;
+}
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #EDF1F3;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #6699CC;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-2 > .rnr-c .rnr-leftbricks
+{
+margin-right: 5px;
+}
+.ExtravaganzaOffice.rnr-s-2 > .rnr-c .rnr-rightbricks
+{
+margin-left: 5px;
+}
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 6px 4px;
+}
+.ExtravaganzaOffice.rnr-s-2 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 5px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-2 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 5px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-2 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-3 > .rnr-c
+{
+border-top-right-radius: 6px;border-top-left-radius: 6px;border-bottom-right-radius: 6px;border-bottom-left-radius: 6px;
+}
+.ExtravaganzaOffice.rnr-s-3 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-right-radius: 6px; padding-right: 3px;
+border-bottom-right-radius: 6px; padding-right: 3px;
+
+}
+.ExtravaganzaOffice.rnr-s-3 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-left-radius: 6px; padding-left: 3px;
+border-bottom-left-radius: 6px; padding-left: 3px;
+
+}
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style1,
+.ExtravaganzaOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-3 > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #494949;
+}
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style2,
+.ExtravaganzaOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #000080;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style3,
+.ExtravaganzaOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FF9900;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.rnr-s-3 > .rnr-c .rnr-leftbricks
+{
+margin-right: 6px;
+}
+.ExtravaganzaOffice.rnr-s-3 > .rnr-c .rnr-rightbricks
+{
+margin-left: 6px;
+}
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style1,
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-3 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 6px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-3 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 6px; background:transparent;
+}
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style2,
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.ExtravaganzaOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style3,
+.ExtravaganzaOffice.rnr-s-3 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > th:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > th:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > td:not(.rnr-cs)
+{
+border-top: solid #C4B1A2 1px;
+
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > td:not(.rnr-cs)
+{
+border-bottom: solid #C4B1A2 1px;
+
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > td:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > td:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > th:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > th:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > *.rnr-cs + td,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > *.rnr-cs + td,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > *.rnr-cs + th,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > *.rnr-cs + th
+{
+border-right: solid #C4B1A2 1px;
+
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > * > *.rnr-edge,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > * > *.rnr-edge
+{
+border-left: solid #C4B1A2 1px;
+
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > td:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > td:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > th:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > th:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > *.rnr-cs + td,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > *.rnr-cs + td,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > *.rnr-cs + th,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > *.rnr-cs + th
+{
+border-top-right-radius: 5px;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > td:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > td:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > th:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > th:first-child,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > *.rnr-cs + td,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > *.rnr-cs + td,
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > *.rnr-cs + th,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > *.rnr-cs + th
+{
+border-bottom-right-radius: 5px;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow:first-child > .rnr-edge,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow:first-child > .rnr-edge
+{
+border-top-left-radius: 5px;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:last-child > .rnr-edge,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:last-child > .rnr-edge
+{
+border-bottom-left-radius: 5px;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > * > .rnr-edge,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > * > .rnr-edge
+{
+min-width: 5px;
+
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow > th:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow > th:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow > td:not(.rnr-cs)
+{
+background-color: #FFCD9B; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #070400;padding: 6px 4px;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-bottomrow > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-bottomrow > td:not(.rnr-cs)
+{
+background-color: #FFCD9B; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #070400;padding: 5px 4px;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row > td:not(.rnr-cs)
+{
+background-color: #EDF1F3; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #333333;color: #333333;padding: 6px 4px;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row:nth-last-child(2n+1) > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row:nth-last-child(2n+1) > td:not(.rnr-cs)
+{
+background-color: #FFFFFF; background-image: none;color: #333333;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical).hoverable > * > .rnr-row:hover > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord.hoverable > * > .rnr-row:hover > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row > td.rnr-selected,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row > td.rnr-selected
+{
+background-color: #FFCD9B; background-image: none;color: #333333;
+}
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical).hoverable > * > .rnr-row:hover:nth-last-child(2n+1) > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord.hoverable > * > .rnr-row:hover:nth-last-child(2n+1) > td:not(.rnr-cs),
+.ExtravaganzaOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row:nth-last-child(2n+1) > td.rnr-selected,
+.ExtravaganzaOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row:nth-last-child(2n+1) > td.rnr-selected
+{
+background-color: #FFCD9B; background-image: none;color: #333333;
+}
+.ExtravaganzaOffice .rnr-search-highlight
+{
+color: #FF0000; background-color: transparent;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > *,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *:not(.subitem)
+{
+background-color: #494949;
+background: -webkit-linear-gradient(top, #7F7F7F, #494949);
+background: -moz-linear-gradient(top, #7F7F7F, #494949);
+background: -ms-linear-gradient(top, #7F7F7F, #494949);
+background: -o-linear-gradient(top, #7F7F7F, #494949);
+;
+color:#FBFAE8;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > * > hr,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *:not(.subitem) > hr
+{
+border-color:#FBFAE8;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > *:hover:not(.expanded):not(.menuSeparator),
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *:not(.subitem):not(.manage):hover:not(.menuSeparator)
+{
+background-color: #3E3E3E;
+background: -webkit-linear-gradient(top, #777777, #3E3E3E);
+background: -moz-linear-gradient(top, #777777, #3E3E3E);
+background: -ms-linear-gradient(top, #777777, #3E3E3E);
+background: -o-linear-gradient(top, #777777, #3E3E3E);
+;
+color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > *.current.current.current,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *:not(.subitem).current.current.current
+{
+background-color: #3E3E3E;
+background: -webkit-linear-gradient(top, #777777, #3E3E3E);
+background: -moz-linear-gradient(top, #777777, #3E3E3E);
+background: -ms-linear-gradient(top, #777777, #3E3E3E);
+background: -o-linear-gradient(top, #777777, #3E3E3E);
+;
+color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > *:hover:hover:hover.expanded
+{
+background-color: #3E3E3E;
+background: -webkit-linear-gradient(top, #777777, #3E3E3E);
+background: -moz-linear-gradient(top, #777777, #3E3E3E);
+background: -ms-linear-gradient(top, #777777, #3E3E3E);
+background: -o-linear-gradient(top, #777777, #3E3E3E);
+;
+color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > * > ul li,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *.subitem
+{
+background-color: #2C2D2D;
+background: -webkit-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -moz-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -ms-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -o-linear-gradient(top, #6B6C6C, #2C2D2D);
+;
+color:#979696;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > * > ul li > hr,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *.subitem > hr
+{
+border-color:#979696;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > * > ul li:hover:not(.expanded):not(.menuSeparator),
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *.subitem:hover:not(.menuSeparator)
+{
+background-color: #2C2D2D;
+background: -webkit-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -moz-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -ms-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -o-linear-gradient(top, #6B6C6C, #2C2D2D);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > * > ul li.current.current.current,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *.subitem.current.current.current
+{
+background-color: #2C2D2D;
+background: -webkit-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -moz-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -ms-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -o-linear-gradient(top, #6B6C6C, #2C2D2D);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > * > ul li:hover:hover:hover.expanded
+{
+background-color: #2C2D2D;
+background: -webkit-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -moz-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -ms-linear-gradient(top, #6B6C6C, #2C2D2D);
+background: -o-linear-gradient(top, #6B6C6C, #2C2D2D);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *:not(.subitem) > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > * > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.tree.main > *.subitem > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main > * > ul li > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.main >  * ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > *,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *:not(.subitem)
+{
+background-color: #E8E8E8;
+background: -webkit-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -moz-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -ms-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -o-linear-gradient(top, #EEEEEE, #E8E8E8);
+;
+color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > * > hr,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *:not(.subitem) > hr
+{
+border-color:#353535;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > *:hover:not(.expanded):not(.menuSeparator),
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *:not(.subitem):not(.manage):hover:not(.menuSeparator)
+{
+background-color: #F1F1F1;
+background: -webkit-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -moz-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -ms-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -o-linear-gradient(top, #F5F5F5, #F1F1F1);
+;
+color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > *.current.current.current,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *:not(.subitem).current.current.current
+{
+background-color: #004080;
+background: -webkit-linear-gradient(top, #4C79A6, #004080);
+background: -moz-linear-gradient(top, #4C79A6, #004080);
+background: -ms-linear-gradient(top, #4C79A6, #004080);
+background: -o-linear-gradient(top, #4C79A6, #004080);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > *:hover:hover:hover.expanded
+{
+background-color: #F1F1F1;
+background: -webkit-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -moz-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -ms-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -o-linear-gradient(top, #F5F5F5, #F1F1F1);
+;
+color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > * > ul li,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *.subitem
+{
+background-color: #E8E8E8;
+background: -webkit-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -moz-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -ms-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -o-linear-gradient(top, #EEEEEE, #E8E8E8);
+;
+color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > * > ul li > hr,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *.subitem > hr
+{
+border-color:#353535;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > * > ul li:hover:not(.expanded):not(.menuSeparator),
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *.subitem:hover:not(.menuSeparator)
+{
+background-color: #F1F1F1;
+background: -webkit-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -moz-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -ms-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -o-linear-gradient(top, #F5F5F5, #F1F1F1);
+;
+color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > * > ul li.current.current.current,
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *.subitem.current.current.current
+{
+background-color: #004080;
+background: -webkit-linear-gradient(top, #4C79A6, #004080);
+background: -moz-linear-gradient(top, #4C79A6, #004080);
+background: -ms-linear-gradient(top, #4C79A6, #004080);
+background: -o-linear-gradient(top, #4C79A6, #004080);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > * > ul li:hover:hover:hover.expanded
+{
+background-color: #F1F1F1;
+background: -webkit-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -moz-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -ms-linear-gradient(top, #F5F5F5, #F1F1F1);
+background: -o-linear-gradient(top, #F5F5F5, #F1F1F1);
+;
+color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *:not(.subitem) > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > * > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.tree.second > *.subitem > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second > * > ul li > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-vmenu.simple.second >  * ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main > div:not(.rnr-hseparator)
+{
+background-color: #494949;
+background: -webkit-linear-gradient(top, #7F7F7F, #494949);
+background: -moz-linear-gradient(top, #7F7F7F, #494949);
+background: -ms-linear-gradient(top, #7F7F7F, #494949);
+background: -o-linear-gradient(top, #7F7F7F, #494949);
+;
+color:#FBFAE8;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;padding: 5px 6px;border-top-right-radius: 6px;border-top-left-radius: 6px;border: solid #2B2A2A 2px;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main > div:not(.rnr-hseparator) > hr
+{
+border-color:#FBFAE8;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main:hover:not(.expanded) > div:not(.rnr-hseparator)
+{
+background-color: #3E3E3E;
+background: -webkit-linear-gradient(top, #777777, #3E3E3E);
+background: -moz-linear-gradient(top, #777777, #3E3E3E);
+background: -ms-linear-gradient(top, #777777, #3E3E3E);
+background: -o-linear-gradient(top, #777777, #3E3E3E);
+;
+color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main.current.current > div:not(.rnr-hseparator)
+{
+background-color: #3E3E3E;
+background: -webkit-linear-gradient(top, #777777, #3E3E3E);
+background: -moz-linear-gradient(top, #777777, #3E3E3E);
+background: -ms-linear-gradient(top, #777777, #3E3E3E);
+background: -o-linear-gradient(top, #777777, #3E3E3E);
+;
+color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main:hover.expanded > div:not(.rnr-hseparator)
+{
+background-color: #3E3E3E;
+background: -webkit-linear-gradient(top, #777777, #3E3E3E);
+background: -moz-linear-gradient(top, #777777, #3E3E3E);
+background: -ms-linear-gradient(top, #777777, #3E3E3E);
+background: -o-linear-gradient(top, #777777, #3E3E3E);
+;
+color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main > ul li
+{
+background-color: #2C2D2D;
+background: -webkit-linear-gradient(top, #696969, #2C2D2D);
+background: -moz-linear-gradient(top, #696969, #2C2D2D);
+background: -ms-linear-gradient(top, #696969, #2C2D2D);
+background: -o-linear-gradient(top, #696969, #2C2D2D);
+;
+color:#979696;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main > ul li > hr
+{
+border-color:#979696;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main > ul li:hover:not(.expanded):not(.menuSeparator)
+{
+background-color: #2C2D2D;
+background: -webkit-linear-gradient(top, #696969, #2C2D2D);
+background: -moz-linear-gradient(top, #696969, #2C2D2D);
+background: -ms-linear-gradient(top, #696969, #2C2D2D);
+background: -o-linear-gradient(top, #696969, #2C2D2D);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main > ul li.current.current
+{
+background-color: #2C2D2D;
+background: -webkit-linear-gradient(top, #696969, #2C2D2D);
+background: -moz-linear-gradient(top, #696969, #2C2D2D);
+background: -ms-linear-gradient(top, #696969, #2C2D2D);
+background: -o-linear-gradient(top, #696969, #2C2D2D);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main > ul li:hover.expanded
+{
+background-color: #2C2D2D;
+background: -webkit-linear-gradient(top, #696969, #2C2D2D);
+background: -moz-linear-gradient(top, #696969, #2C2D2D);
+background: -ms-linear-gradient(top, #696969, #2C2D2D);
+background: -o-linear-gradient(top, #696969, #2C2D2D);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main > ul li > div > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.ExtravaganzaOffice .rnr-b-hmenu.main.rnr-b-hmenu.rnr-b-hmenu
+{
+padding-bottom: 0; padding-left:0; padding-right:0; vertical-align: bottom;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second > div:not(.rnr-hseparator)
+{
+background-color: #E8E8E8;
+background: -webkit-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -moz-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -ms-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -o-linear-gradient(top, #EEEEEE, #E8E8E8);
+;
+color:#6F6F6F;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;padding: 5px 6px;border-top-right-radius: 6px;border-top-left-radius: 6px;border: solid #004080 2px;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second > div:not(.rnr-hseparator) > hr
+{
+border-color:#6F6F6F;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second:hover:not(.expanded) > div:not(.rnr-hseparator)
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -moz-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -ms-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -o-linear-gradient(top, #F5F5F5, #F2F2F2);
+;
+color:#6F6F6F;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second.current.current > div:not(.rnr-hseparator)
+{
+background-color: #004080;
+background: -webkit-linear-gradient(top, #4C79A6, #004080);
+background: -moz-linear-gradient(top, #4C79A6, #004080);
+background: -ms-linear-gradient(top, #4C79A6, #004080);
+background: -o-linear-gradient(top, #4C79A6, #004080);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second:hover.expanded > div:not(.rnr-hseparator)
+{
+background-color: #F2F2F2;
+background: -webkit-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -moz-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -ms-linear-gradient(top, #F5F5F5, #F2F2F2);
+background: -o-linear-gradient(top, #F5F5F5, #F2F2F2);
+;
+color:#6F6F6F;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second > ul li
+{
+background-color: #E8E8E8;
+background: -webkit-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -moz-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -ms-linear-gradient(top, #EEEEEE, #E8E8E8);
+background: -o-linear-gradient(top, #EEEEEE, #E8E8E8);
+;
+color:#000080;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second > ul li > hr
+{
+border-color:#000080;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second > ul li:hover:not(.expanded):not(.menuSeparator)
+{
+background-color: #F6F6F6;
+background: -webkit-linear-gradient(top, #F8F8F8, #F6F6F6);
+background: -moz-linear-gradient(top, #F8F8F8, #F6F6F6);
+background: -ms-linear-gradient(top, #F8F8F8, #F6F6F6);
+background: -o-linear-gradient(top, #F8F8F8, #F6F6F6);
+;
+color:#0000FF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second > ul li.current.current
+{
+background-color: #004080;
+background: -webkit-linear-gradient(top, #4977A4, #004080);
+background: -moz-linear-gradient(top, #4977A4, #004080);
+background: -ms-linear-gradient(top, #4977A4, #004080);
+background: -o-linear-gradient(top, #4977A4, #004080);
+;
+color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second > ul li:hover.expanded
+{
+background-color: #F6F6F6;
+background: -webkit-linear-gradient(top, #F8F8F8, #F6F6F6);
+background: -moz-linear-gradient(top, #F8F8F8, #F6F6F6);
+background: -ms-linear-gradient(top, #F8F8F8, #F6F6F6);
+background: -o-linear-gradient(top, #F8F8F8, #F6F6F6);
+;
+color:#0000FF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second > ul li > div > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.ExtravaganzaOffice .rnr-b-hmenu.second.rnr-b-hmenu.rnr-b-hmenu
+{
+padding-bottom: 0; padding-left:0; padding-right:0; vertical-align: bottom;
+}
+body.ExtravaganzaOffice
+{
+
+background-color:#E6E6E6;
+}
+.ExtravaganzaOffice .rnr-list
+{
+color: #404040;background-color: #F2F2F2;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;border: solid #A9A9A9 1px;box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.ExtravaganzaOffice .rnr-tab.selected
+{
+background-color:#494949;
+border-top-right-radius:4px;
+border-top-left-radius:4px;
+
+}
+.ExtravaganzaOffice .rnr-tab
+{
+background-color:#C0C0C0;
+border-top-right-radius:4px;
+border-top-left-radius:4px;
+border: solid #000000 1px; border-bottom-width:0;
+}
+.ExtravaganzaOffice .rnr-tab.selected > a
+{
+color: #FFFFFF;
+
+}
+.ExtravaganzaOffice .rnr-tab > a
+{
+color: #000000;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .yui-navset .yui-content
+{
+border: solid #494949 1px;border-top-width: 5px;
+}
+.ExtravaganzaOffice  .rnr-message
+{
+background-color: #F3EBDE;border: solid #FE6F49 2px;color: #393939;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice  .rnr-error.rnr-error
+{
+color: #A80000;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .yui3-panel-content.yui3-panel-content
+{
+border: solid #C4B1A2 1px;border-radius: 5px;
+}
+.ExtravaganzaOffice  .yui3-panel .yui3-widget-hd.yui3-widget-hd.yui3-widget-hd
+{
+background-color: #494949; background-image: none;font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.ExtravaganzaOffice  .yui3-widget-ft
+{
+background-color: #494949; background-image: none;font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.ExtravaganzaOffice .rnr-dbbordered
+{
+border: solid #C4B1A2 1px;border-radius: 5px;
+}
+.ExtravaganzaOffice  .rnr-dbelemheader
+{
+background-color: #494949; background-image: none;font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.ExtravaganzaOffice  .rnr-dbelemfooter
+{
+background-color: #D8D8D8; background-image: none;font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #000000;
+}
+.ExtravaganzaOffice  .rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow
+{
+background-color: #FFFACD; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #4C4951;
+}
+.ExtravaganzaOffice .rnr-dashboard
+{
+background-color: #FFFFFF;
+}
+.ExtravaganzaOffice .rnr-button.rnr-button,
+.ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+.ExtravaganzaOffice .button.button.button.rnr-button.rnr-button,
+ .rnr-pagewrapper .ExtravaganzaOffice .rnr-button.rnr-button,
+ .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button.rnr-button
+{
+border: solid 2px;border-radius: 4px;padding: 3px 9px 4px;background-color: #C9C9C9;
+background: -webkit-linear-gradient(top, #E4E4E4, #C9C9C9);
+background: -moz-linear-gradient(top, #E4E4E4, #C9C9C9);
+background: -ms-linear-gradient(top, #E4E4E4, #C9C9C9);
+background: -o-linear-gradient(top, #E4E4E4, #C9C9C9);
+;
+border-color: #696969;color: #393939;
+font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .rnr-button.rnr-button.img,
+.ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+.ExtravaganzaOffice .button.button.button.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .ExtravaganzaOffice .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button.rnr-button.img
+{
+padding: 3px;
+
+}
+.ExtravaganzaOffice .rnr-button:hover,
+.ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+.ExtravaganzaOffice .button.button.button.rnr-button:hover,
+ .rnr-pagewrapper .ExtravaganzaOffice .rnr-button:hover,
+ .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button:hover
+{
+background-color: #DCDCDC;
+background: -webkit-linear-gradient(top, #EDEDED, #DCDCDC);
+background: -moz-linear-gradient(top, #EDEDED, #DCDCDC);
+background: -ms-linear-gradient(top, #EDEDED, #DCDCDC);
+background: -o-linear-gradient(top, #EDEDED, #DCDCDC);
+;
+border-color: #CE1F00;color: #CE1F00;
+
+}
+.ExtravaganzaOffice .rnr-button:active,
+.ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+.ExtravaganzaOffice .button.button.button.rnr-button:active,
+ .rnr-pagewrapper .ExtravaganzaOffice .rnr-button:active,
+ .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button:active
+{
+background-color: #DDDDDD;
+background: -webkit-linear-gradient(top, #EEEEEE, #DDDDDD);
+background: -moz-linear-gradient(top, #EEEEEE, #DDDDDD);
+background: -ms-linear-gradient(top, #EEEEEE, #DDDDDD);
+background: -o-linear-gradient(top, #EEEEEE, #DDDDDD);
+;
+border-color: #696969;color: #808080;
+
+}
+.ExtravaganzaOffice .rnr-button.disabled,
+.ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+.ExtravaganzaOffice .button.button.button.rnr-button.disabled,
+ .rnr-pagewrapper .ExtravaganzaOffice .rnr-button.disabled,
+ .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .button.button.button.rnr-button.disabled
+{
+background-color: #333333;
+background: -webkit-linear-gradient(top, #999999, #333333);
+background: -moz-linear-gradient(top, #999999, #333333);
+background: -ms-linear-gradient(top, #999999, #333333);
+background: -o-linear-gradient(top, #999999, #333333);
+;
+border-color: #FE4F29;color: #FFFFFF;
+
+}
+.ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+.ExtravaganzaOffice .link.link.link.rnr-button.rnr-button,
+ .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button.rnr-button
+{
+background: none; border: none; ;
+border: none;border-radius: 0px;padding: 4px 8px 4px;color: #000000;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+.ExtravaganzaOffice .link.link.link.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button.rnr-button.img
+{
+padding: 4px;
+
+}
+.ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+.ExtravaganzaOffice .link.link.link.rnr-button:hover,
+ .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button:hover
+{
+color: #FE4F29;
+
+}
+.ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+.ExtravaganzaOffice .link.link.link.rnr-button:active,
+ .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button:active
+{
+color: #F66C13;
+
+}
+.ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+.ExtravaganzaOffice .link.link.link.rnr-button.disabled,
+ .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .link.link.link.rnr-button.disabled
+{
+color: #404040;
+
+}
+.ExtravaganzaOffice .main.main.main.rnr-button.rnr-button,
+ .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button.rnr-button
+{
+border: solid 2px;border-radius: 4px;padding: 3px 9px 4px;background-color: #FE6F49;
+background: -webkit-linear-gradient(top, #FEB7A4, #FE6F49);
+background: -moz-linear-gradient(top, #FEB7A4, #FE6F49);
+background: -ms-linear-gradient(top, #FEB7A4, #FE6F49);
+background: -o-linear-gradient(top, #FEB7A4, #FE6F49);
+;
+border-color: #393939;color: #393939;
+font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.ExtravaganzaOffice .main.main.main.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button.rnr-button.img
+{
+padding: 3px;
+
+}
+.ExtravaganzaOffice .main.main.main.rnr-button:hover,
+ .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button:hover
+{
+background-color: #DCDCDC;
+background: -webkit-linear-gradient(top, #EDEDED, #DCDCDC);
+background: -moz-linear-gradient(top, #EDEDED, #DCDCDC);
+background: -ms-linear-gradient(top, #EDEDED, #DCDCDC);
+background: -o-linear-gradient(top, #EDEDED, #DCDCDC);
+;
+border-color: #CE1F00;color: #CE1F00;
+
+}
+.ExtravaganzaOffice .main.main.main.rnr-button:active,
+ .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button:active
+{
+background-color: #DDDDDD;
+background: -webkit-linear-gradient(top, #EEEEEE, #DDDDDD);
+background: -moz-linear-gradient(top, #EEEEEE, #DDDDDD);
+background: -ms-linear-gradient(top, #EEEEEE, #DDDDDD);
+background: -o-linear-gradient(top, #EEEEEE, #DDDDDD);
+;
+border-color: #696969;color: #808080;
+
+}
+.ExtravaganzaOffice .main.main.main.rnr-button.disabled,
+ .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .ExtravaganzaOffice .main.main.main.rnr-button.disabled
+{
+background-color: #333333;
+background: -webkit-linear-gradient(top, #999999, #333333);
+background: -moz-linear-gradient(top, #999999, #333333);
+background: -ms-linear-gradient(top, #999999, #333333);
+background: -o-linear-gradient(top, #999999, #333333);
+;
+border-color: #FE4F29;color: #FFFFFF;
+
+}

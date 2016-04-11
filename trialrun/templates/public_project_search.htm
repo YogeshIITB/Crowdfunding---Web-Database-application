@@ -1,0 +1,274 @@
+<!doctype html>
+<html  {$html_attrs}>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>{$pagetitle}</title>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link REL="stylesheet" href="styles/default.css" type="text/css">
+		{BEGIN rtlCSS}
+		<link REL="stylesheet" href="styles/defaultRTL.css" type="text/css">
+		{END rtlCSS}
+		{BEGIN styleCSSFiles}
+		<link REL="stylesheet" href="{$stylepath}" type="text/css">
+		{END styleCSSFiles}
+		{BEGIN pageCSSFiles}
+		<link REL="stylesheet" href="{$pagestylepath}" type="text/css">
+		{END pageCSSFiles}
+	</head>
+	
+	<body class="{$stylename} function-search" {$bodyattrs}>
+	{BEGIN body}
+		{$header}
+	<div class="rnr-page">
+		<div class="rnr-top {$blockclass_top}">
+			
+
+{BEGIN container_search}
+<div class="rnr-c rnr-cv rnr-c-search">
+
+{BEGIN searchheader}
+<div  class="rnr-brickcontents style2 rnr-b-srchheader {$brickclass_srchheader}"><span>	<h1>{$pagetitlelabel public_project search}</h1>
+</span></div>{END searchheader}
+
+
+{BEGIN conditions_block}
+<div  class="rnr-brickcontents style1 rnr-b-srchconditions {$brickclass_srchconditions}">	<center>
+	<span class=fieldname>Criteria:&nbsp;</span>	
+	<input type="radio" class="rnr-radio-button" name="srchType{$id}" {$all_checkbox}><label for="all_checkbox"> All conditions</label>
+	&nbsp;&nbsp;&nbsp;
+	<input type="radio" class="rnr-radio-button" name="srchType{$id}" {$any_checkbox}><label for="any_checkbox"> Any condition</label>
+	</center></div>{END conditions_block}
+
+
+
+<div  class="rnr-brickcontents style1 rnr-b-wrapper {$wrapperclass_fields} rnr-wrapper rnr-cbw-fields">
+
+{BEGIN container_fields}
+<div class="rnr-c rnr-cv rnr-c-fields">
+
+
+<div  class="rnr-brickcontents style1 rnr-b-srchfields {$brickclass_srchfields}"><table class="fieldGrid">
+	<tr>
+		<td>&nbsp;</td>
+		<td>NOT</td>
+		<td colspan=3>&nbsp; </td>
+	</tr>
+	<tr class="{$fielddispclass_id}">
+	{BEGIN id_fieldblock}		
+	<td>
+		{$label public_project id}
+	</td>
+	<td>
+		<input type="checkbox" {$id_notbox}>
+	</td>
+	<td>
+		{$searchtype_id}
+	</td>
+	<td>
+		{$id_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$id_editcontrol1}&nbsp;
+	</td>
+{END id_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_owner}">
+	{BEGIN owner_fieldblock}		
+	<td>
+		{$label public_project owner}
+	</td>
+	<td>
+		<input type="checkbox" {$owner_notbox}>
+	</td>
+	<td>
+		{$searchtype_owner}
+	</td>
+	<td>
+		{$owner_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$owner_editcontrol1}&nbsp;
+	</td>
+{END owner_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_title}">
+	{BEGIN title_fieldblock}		
+	<td>
+		{$label public_project title}
+	</td>
+	<td>
+		<input type="checkbox" {$title_notbox}>
+	</td>
+	<td>
+		{$searchtype_title}
+	</td>
+	<td>
+		{$title_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$title_editcontrol1}&nbsp;
+	</td>
+{END title_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_description}">
+	{BEGIN description_fieldblock}		
+	<td>
+		{$label public_project description}
+	</td>
+	<td>
+		<input type="checkbox" {$description_notbox}>
+	</td>
+	<td>
+		{$searchtype_description}
+	</td>
+	<td>
+		{$description_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$description_editcontrol1}&nbsp;
+	</td>
+{END description_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_startdate}">
+	{BEGIN startdate_fieldblock}		
+	<td>
+		{$label public_project startdate}
+	</td>
+	<td>
+		<input type="checkbox" {$startdate_notbox}>
+	</td>
+	<td>
+		{$searchtype_startdate}
+	</td>
+	<td>
+		{$startdate_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$startdate_editcontrol1}&nbsp;
+	</td>
+{END startdate_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_expirydate}">
+	{BEGIN expirydate_fieldblock}		
+	<td>
+		{$label public_project expirydate}
+	</td>
+	<td>
+		<input type="checkbox" {$expirydate_notbox}>
+	</td>
+	<td>
+		{$searchtype_expirydate}
+	</td>
+	<td>
+		{$expirydate_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$expirydate_editcontrol1}&nbsp;
+	</td>
+{END expirydate_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_country}">
+	{BEGIN country_fieldblock}		
+	<td>
+		{$label public_project country}
+	</td>
+	<td>
+		<input type="checkbox" {$country_notbox}>
+	</td>
+	<td>
+		{$searchtype_country}
+	</td>
+	<td>
+		{$country_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$country_editcontrol1}&nbsp;
+	</td>
+{END country_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_target}">
+	{BEGIN target_fieldblock}		
+	<td>
+		{$label public_project target}
+	</td>
+	<td>
+		<input type="checkbox" {$target_notbox}>
+	</td>
+	<td>
+		{$searchtype_target}
+	</td>
+	<td>
+		{$target_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$target_editcontrol1}&nbsp;
+	</td>
+{END target_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_status}">
+	{BEGIN status_fieldblock}		
+	<td>
+		{$label public_project status}
+	</td>
+	<td>
+		<input type="checkbox" {$status_notbox}>
+	</td>
+	<td>
+		{$searchtype_status}
+	</td>
+	<td>
+		{$status_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$status_editcontrol1}&nbsp;
+	</td>
+{END status_fieldblock}
+	</tr>
+
+</table></div>
+
+
+{BEGIN searchbuttons}
+<div  class="rnr-brickcontents style2 rnr-b-srchbuttons {$brickclass_srchbuttons}">{BEGIN search_button}
+<a href="#" class="rnr-button main" {$searchbutton_attrs}>Search</a>
+{END search_button} 
+{BEGIN reset_button}
+<a href="#" class="rnr-button" {$resetbutton_attrs}>Reset</a>
+{END reset_button}
+{BEGIN back_button}
+<a href="#" class="rnr-button" {$backbutton_attrs}>Back to list</a>
+{END back_button}</div>{END searchbuttons}
+
+
+</div>
+{END container_fields}
+
+</div>
+
+
+</div>
+{END container_search}
+
+
+		</div>
+		<div class="rnr-middle">
+			<div class="rnr-left {$blockclass_left}">
+				
+			</div>
+			<div class="rnr-center {$blockclass_center}">
+				
+			</div>
+			<div class="rnr-right {$blockclass_right}">
+				
+			</div>
+		</div>
+		<div class="rnr-bottom {$blockclass_bottom}">
+			<!--%%bottom%%-->
+		</div>
+	</div>
+		
+		{$footer}
+	{END body}
+	</body>
+</html>

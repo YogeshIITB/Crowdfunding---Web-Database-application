@@ -1,0 +1,144 @@
+<!doctype html>
+<html  {$html_attrs}>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>{$pagetitle}</title>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link REL="stylesheet" href="styles/default.css" type="text/css">
+		{BEGIN rtlCSS}<link REL="stylesheet" href="styles/defaultRTL.css" type="text/css">
+		{END rtlCSS}
+		{BEGIN styleCSSFiles}<link REL="stylesheet" href="{$stylepath}" type="text/css">
+		{END styleCSSFiles}
+		{BEGIN pageCSSFiles}<link REL="stylesheet" href="{$pagestylepath}" type="text/css">
+		{END pageCSSFiles}
+	</head>
+	
+	<body class="{$stylename} function-add" {$bodyattrs}>
+	{BEGIN body}{$header}
+	<div class="rnr-page">
+		<div class="rnr-top {$blockclass_top}">
+			
+
+{BEGIN container_all}<div class="rnr-c rnr-cv rnr-c-all">
+
+
+<div  class="rnr-brickcontents style1 rnr-b-wrapper {$wrapperclass_add} rnr-wrapper rnr-cbw-add">
+
+{BEGIN container_add}<div class="rnr-c rnr-cv rnr-c-add">
+
+{BEGIN addheader}<div  class="rnr-brickcontents style2 rnr-b-addheader {$brickclass_addheader}"><span>	<h1>{$pagetitlelabel public_project add}</h1>
+</span></div>{END addheader}
+
+
+{BEGIN message_block}<div  class="rnr-brickcontents style1 rnr-b-message {$brickclass_message}"><div class="rnr-message">{$message}</div></div>{END message_block}
+
+
+
+<div  class="rnr-brickcontents style1 rnr-b-wrapper {$wrapperclass_fields} rnr-wrapper rnr-cbw-fields">
+
+{BEGIN container_fields}<div class="rnr-c rnr-cv rnr-c-fields">
+
+
+<div  class="rnr-brickcontents style1 rnr-b-addfields {$brickclass_addfields}"><table class="fieldGrid">
+	{BEGIN title_fieldblock}<tr class="{$fielddispclass_title}" data-fieldname="title">
+	<TD class="rnr-label" rowspan="1" colspan="1">{BEGIN title_label}{$label public_project title}{END title_label}
+	</td>
+	<TD class="rnr-control style3" rowspan="1" colspan="1">
+      {$title_editcontrol}&nbsp;
+	</td>
+</tr>
+{END title_fieldblock}
+	{BEGIN description_fieldblock}<tr class="{$fielddispclass_description}" data-fieldname="description">
+	<TD class="rnr-label" rowspan="1" colspan="1">{BEGIN description_label}{$label public_project description}{END description_label}
+	</td>
+	<TD class="rnr-control style3" rowspan="1" colspan="1">
+      {$description_editcontrol}&nbsp;
+	</td>
+</tr>
+{END description_fieldblock}
+	{BEGIN startdate_fieldblock}<tr class="{$fielddispclass_startdate}" data-fieldname="startdate">
+	<TD class="rnr-label" rowspan="1" colspan="1">{BEGIN startdate_label}{$label public_project startdate}{END startdate_label}
+	</td>
+	<TD class="rnr-control style3" rowspan="1" colspan="1">
+      {$startdate_editcontrol}&nbsp;
+	</td>
+</tr>
+{END startdate_fieldblock}
+	{BEGIN expirydate_fieldblock}<tr class="{$fielddispclass_expirydate}" data-fieldname="expirydate">
+	<TD class="rnr-label" rowspan="1" colspan="1">{BEGIN expirydate_label}{$label public_project expirydate}{END expirydate_label}
+	</td>
+	<TD class="rnr-control style3" rowspan="1" colspan="1">
+      {$expirydate_editcontrol}&nbsp;
+	</td>
+</tr>
+{END expirydate_fieldblock}
+	{BEGIN country_fieldblock}<tr class="{$fielddispclass_country}" data-fieldname="country">
+	<TD class="rnr-label" rowspan="1" colspan="1">{BEGIN country_label}{$label public_project country}{END country_label}
+	</td>
+	<TD class="rnr-control style3" rowspan="1" colspan="1">
+      {$country_editcontrol}&nbsp;
+	</td>
+</tr>
+{END country_fieldblock}
+	{BEGIN target_fieldblock}<tr class="{$fielddispclass_target}" data-fieldname="target">
+	<TD class="rnr-label" rowspan="1" colspan="1">{BEGIN target_label}{$label public_project target}{END target_label}
+	</td>
+	<TD class="rnr-control style3" rowspan="1" colspan="1">
+      {$target_editcontrol}&nbsp;
+	</td>
+</tr>
+{END target_fieldblock}
+</table></div>
+
+
+{BEGIN addbuttons}<div  class="rnr-brickcontents style2 rnr-b-addbuttons {$brickclass_addbuttons}">{BEGIN save_button}<a href="#" class="rnr-button main" id="saveButton{$id}">Save</a>
+{END save_button}
+{BEGIN reset_button}<a href="#" class="rnr-button" id="resetButton{$id}">Reset</a>
+{END reset_button}
+{BEGIN cancel_button}<a href="#" class="rnr-button" id="cancelButton{$id}">Cancel</a>
+{END cancel_button}
+{BEGIN back_button}<a href="#" class="rnr-button" id="backButton{$id}">Back to list</a>
+{END back_button}
+{BEGIN backToMenu_button}<a href="#" class="rnr-button" id="backToMenuButton{$id}">Back to menu</a>
+{END backToMenu_button}</div>{END addbuttons}
+
+
+</div>
+{END container_fields}
+
+</div>
+
+
+</div>
+{END container_add}
+
+</div>
+
+
+
+</div>
+{END container_all}
+
+
+		</div>
+		<div class="rnr-middle">
+			<div class="rnr-left {$blockclass_left}">
+				
+			</div>
+			<div class="rnr-center {$blockclass_center}">
+				
+			</div>
+			<div class="rnr-right {$blockclass_right}">
+				
+			</div>
+		</div>
+		<div class="rnr-bottom {$blockclass_bottom}">
+			
+		</div>
+	</div>
+		
+		{$footer}
+	{END body}
+	</body>
+</html>

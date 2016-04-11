@@ -1,0 +1,58 @@
+<div {$pageattrs}>
+
+{BEGIN container_masterlistheader}
+<div class="rnr-c rnr-ch rnr-c-masterlistheader">
+
+
+<div  class="style1 rnr-bl rnr-b-masterprintheader {$brickclass_masterprintheader}">	<h1>{$pagetitlelabel public_project masterprint}</h1>
+</div>
+
+
+<div class="rnr-hfiller"></div>
+</div>
+{END container_masterlistheader}
+
+
+
+{BEGIN container_mastergrid}
+
+
+
+<table class="rnr-c rnr-cont rnr-c-mastergrid rnr-b-masterprintfields rnr-gridtable" cellpadding="0" >
+	<thead>
+		<tr class="rnr-toprow style1 {$gridHeader_class}" >
+			<th class="{$id_class}">{$label public_project id}</th>
+			<th class="{$owner_class}">{$label public_project owner}</th>
+			<th class="{$title_class}">{$label public_project title}</th>
+			<th class="{$description_class}">{$label public_project description}</th>
+			<th class="{$startdate_class}">{$label public_project startdate}</th>
+			<th class="{$expirydate_class}">{$label public_project expirydate}</th>
+			<th class="{$country_class}">{$label public_project country}</th>
+			<th class="{$target_class}">{$label public_project target}</th>
+			<th class="{$status_class}">{$label public_project status}</th>
+			<th class="rnr-edge">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="rnr-row style1">
+			<td class="{$id_class}">{$id_mastervalue}</td>
+			<td class="{$owner_class}">{$owner_mastervalue}</td>
+			<td class="{$title_class}">{$title_mastervalue}</td>
+			<td class="{$description_class}">{$description_mastervalue}</td>
+			<td class="{$startdate_class}">{$startdate_mastervalue}</td>
+			<td class="{$expirydate_class}">{$expirydate_mastervalue}</td>
+			<td class="{$country_class}">{$country_mastervalue}</td>
+			<td class="{$target_class}">{$target_mastervalue}</td>
+			<td class="{$status_class}">{$status_mastervalue}</td>
+			<td class="rnr-edge">&nbsp;</td>
+		</tr>
+	</tbody>
+</table> 
+
+
+
+
+
+{END container_mastergrid}
+
+</div>
